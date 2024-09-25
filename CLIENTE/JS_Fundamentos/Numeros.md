@@ -41,6 +41,18 @@
 	console.log(resultado);
 
 
+
+### Operadores lógicos
+Sirven para numeros y cadenas de string
+
+" > "-> mayor que
+" >= "-> mayor o igual que
+ " < "-> menor que
+ " <= "-> menor o igual que
+ " == "-> igual (valor)
+ " === " -> igual ( valor,tipo)
+ " !== " -> diferente
+
 ### Metodo Math
 
 `let resultado
